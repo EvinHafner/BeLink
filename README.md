@@ -1,4 +1,4 @@
-# BeLink
+# BeLink--比邻
 基于qt/linux/sqlite的局域网即时通讯软件——北理工小学期
 
 基础功能：sqlite数据库存储，TCP/IP网络协议传输，QT前端UI设计
@@ -14,4 +14,9 @@
 
 半实现功能（时间紧迫写了一半没写完或者有bug没修好）
         ：群聊匿名功能、发送图片/文件功能，删除好友、好友分组、群聊、某一条消息的功能
+
+界面展示：
+![image](https://github.com/EvinHafner/BeLink/assets/144083149/b44e44a7-5ba0-4523-90b3-cdca6984fc2b)
+
+        
          
