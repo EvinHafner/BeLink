@@ -1,5 +1,5 @@
 # BeLink--比邻
-基于qt/linux/sqlite的局域网即时通讯软件——北理工小学期专用
+基于qt/linux/sqlite的即时通讯软件——北理工小学期专用
 
 基础功能：sqlite数据库存储，TCP/IP socket网络协议传输，QT前端UI设计
 
